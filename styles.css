@@ -1,0 +1,16 @@
+body{
+    background-color: brown;
+}
+
+div{
+    background-color: cadetblue;
+}
+
+@media (max-width: 700px) {
+    div {
+        background-color: aqua;
+        font-size: large;
+    }
+}
+
+max-width: 500px;
